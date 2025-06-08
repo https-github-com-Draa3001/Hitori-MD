@@ -46,30 +46,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/nvkenn_'
-global.sgh = 'https://github.com/nvhitori'
-global.sgc = 'https://chat.whatsapp.com/KL2YTdMq2np6QIhas42RCa'
+global.sig = ' '
+global.sgh = ' '
+global.sgc = ' '
 global.sdc = " "
-global.snh = 'https://xhitori.my.id'
+global.snh = ' '
 
 /*============== PAYMENT ==============*/
-global.pdana = '082125276167'
-global.povo = '_'
-global.pgopay = '_'
-global.ppulsa = '082125276167'
-global.ppulsa2 = '082125276167'
-global.psaweria = 'https://saweria.co/nvkenn'
+global.pdana = '6285603256172'
+global.povo = '6285603256172'
+global.pgopay = '6285603256172'
+global.ppulsa = '085603256172'
+global.ppulsa2 = '087831823978'
+global.psaweria = ' '
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281323870860'
-global.nomorown = '6282125276167'
-global.namebot = 'XHITORI'
-global.nameown = 'V4LL'
+global.nomorbot = '6287831823978'
+global.nomorown = '6285603256172'
+global.namebot = 'NIX'
+global.nameown = 'EMPEROR'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282125276167', 'V4LL', true]
+  ['6285603256172', 'EMPEROR', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,12 +113,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 X H 1 T O R I シ」' //Main Watermark
-global.wm2 = '𝐗𝐇𝐈𝐓𝐎𝐑𝐈'
-global.wm3 = '❖ ʜɪᴛᴏʀɪ'
+global.wm = '                「 N I X シ」' //Main Watermark
+global.wm2 = '𝐍𝐈𝐗
+global.wm3 = '❖ ɴɪx'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '✨┊ XH1TORI '
+global.titlebot = '✨┊ NIX | EMPEROR '
 global.author = global.wm
 
 
@@ -171,7 +171,7 @@ global.htjava = '𔔮'   //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'XH1TORI'
+global.stickpack = 'NIX'
 global.stickauth = `シ`
 
 global.multiplier = 38 // The higher, The harder levelup
